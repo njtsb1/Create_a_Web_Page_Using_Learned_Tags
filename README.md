@@ -6,4 +6,3 @@ Project developed at the Bootcamp NTT DATA Diversity in Tech with guidance from 
 Learning how to create a Website with a very basic structure, using the tags learned during the practical classes attended during the courses.
 
 [LICENSE](/LICENSE)
-# Create_a_Web_Page_Using_Learned_Tags
